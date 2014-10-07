@@ -4,7 +4,9 @@ Monitoring
 Monitoring project 
 
 
+Product owner:
 
+* Jan Klat	klat@skrz.cz
 
 Team members:
 
@@ -14,7 +16,7 @@ Team members:
 * Tomáš Skalický	skalicky.tomas@hotmail.com
 * Ondřej Kožár	ondrej.kozar@hotmail.cz
 * Ondřej Košťál	onkostal@gmail.com
-* 
+
 
 Links
 =======
