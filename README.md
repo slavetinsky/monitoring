@@ -1,7 +1,8 @@
-Monitoring
-==========
+Monitoring project
+===================
 
-Monitoring project 
+This Monitor project should be able to monitor remote resources of data and create simple output for report purpouses.
+
 
 
 Product owner:
