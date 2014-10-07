@@ -1,9 +1,7 @@
 Monitoring project
 ===================
 
-This Monitor project should be able to monitor remote resources of data and create simple output for report purpouses.
-
-
+This webapp should be able to monitor remote resources of data, customize this resources and create simple output for report purpouses - like graphs, comparations, export and notifications.
 
 Product owner:
 
