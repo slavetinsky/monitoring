@@ -1,9 +1,12 @@
-monitoring
+Monitoring
 ==========
 
-Projekt monitoringu
+Monitoring project 
 
-Členové týmu:
+
+
+
+Team members:
 
 * Martin Petera	petera.martin@seznam.cz
 * Martin Klíma	martin.klima@aol.com
@@ -13,7 +16,7 @@ Projekt monitoringu
 * Ondřej Košťál	onkostal@gmail.com
 * 
 
-Odkazy
+Links
 =======
 
 Hodnocení: https://docs.google.com/spreadsheets/d/1dnk7httwj2G938ZEIgWohTG6adembN0e0--1Ph7ytCw/edit#gid=0
