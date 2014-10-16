@@ -1,0 +1,13 @@
+<h1>Error: <?= $this->message ?></h1>
+
+<b><?= $this->exception->getMessage() ?></b>
+<h4>Trace :</h4>
+<ul>
+	<?php foreach($this->exception->getTrace() as $trace): ?>
+		<li><?= $trace["file"] ?> : <?= $trace["line"] ?></li>
+	<?php endforeach; ?>	
+</ul>
+
+<pre>
+	<?php print_r($this->request->getParams()); ?>
+</pre>
