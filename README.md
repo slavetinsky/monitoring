@@ -7,6 +7,7 @@ The purpose of this project is create app, which will be able to monitor remote 
 
 * Na řádku 13 v /public/index.php
 * Přepište path na *absolutní* cestu k vaší knihovně. 
+* **A potom prosím nekomitujte ty změny v index.php do gitu - ať to nepřepíšete ostatním!**
 
 
 
