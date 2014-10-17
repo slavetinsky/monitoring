@@ -15,6 +15,9 @@ data/sessions/*
 data/tmp/*
 temp/
 
+# Index.php
+public/index.php
+
 # Legacy ZsF1
 demos/
 extras/documentation
