@@ -20,7 +20,7 @@ Team members:
 
 * Martin Petera	petera.martin@seznam.cz
 * Martin Klíma	martin.klima@aol.com
-* Radek Slavětínský	slavetinsky.r@email.cz
+* Radek Slavětínský	slavetinsky.radek@gmail.com
 * Tomáš Skalický	skalicky.tomas@hotmail.com
 * Ondřej Kožár	ondrej.kozar@hotmail.cz
 * Ondřej Košťál	onkostal@gmail.com
